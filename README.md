@@ -31,10 +31,10 @@ I am also an enthusiast web developper/devOps engineer and I'm interested in alg
 <!--START_SECTION:waka-->
 
 ```text
-Latex           26 hrs 27 mins  ███████████████████████▒░   93.46 %
-Python          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-React           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+React/devOps            26 hrs 27 mins  ███████████████████████▒░   93.46 %
+Python                  47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Latex                   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Other                   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 
