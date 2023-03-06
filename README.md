@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=dondavy)
 <br />
 
-I'm [Donald Davy], a PhD Candidate at the CoBIUS Lab at the Université de Sherbrooke in Quebec, Canada. My passion lies in the field of genomics, phylogenomics, and computational biology. As a student in the vast universe of bioinformatics, I'm constantly dreaming up mathematical and algorithmic ideas to model and solve biological issues, with a particular focus on the dysregulation of alternative splicing and the evolution of a set of transcripts/CDS. In my current studies, I aim to bring more knowledge to these topics through computational modeling and analysis.
+I'm [Donald Davy](), a PhD Candidate at the CoBIUS Lab at the Université de Sherbrooke in Quebec, Canada. My passion lies in the field of genomics, phylogenomics, and computational biology. As a student in the vast universe of bioinformatics, I'm constantly dreaming up mathematical and algorithmic ideas to model and solve biological issues, with a particular focus on the dysregulation of alternative splicing and the evolution of a set of transcripts/CDS. In my current studies, I aim to bring more knowledge to these topics through computational modeling and analysis.
 
 I am also an enthusiast web developper/devOps engineer and I'm interested in algorithmic.
 
@@ -31,10 +31,11 @@ I am also an enthusiast web developper/devOps engineer and I'm interested in alg
 <!--START_SECTION:waka-->
 
 ```text
-React/devOps            26 hrs 27 mins  ███████████████████████▒░   93.46 %
-Python                  47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Latex                   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other                   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Algorithm Dev         26 hrs 27 mins  ████████████░░░░░░░░░░░▒░   53.50 %
+React/devOps          20 hrs 15 mins  ██████████░░░░░░░░░░░░░▒░   37.46 %
+C++                   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Python                26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Other                 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 
