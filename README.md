@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=dondavy)
 <br />
 
-I'm [Donald Davy](), a PhD Candidate at the CoBIUS Lab at Université de Sherbrooke, Québec, Canada, passionate by genomics, phylogenomics and computaional biology. You guessed it, I'm studying in the vast universe of bioinformatics. My current studies lies with dreaming up mathematical and algorithmic ideas and modeling them to solve biological issues or to bring more knowledge on them such that the dysregulation of Alternative splicing and how a set of transcripts/CDS are evolved.
+I'm [Donald Davy], a PhD Candidate at the CoBIUS Lab at the Université de Sherbrooke in Quebec, Canada. My passion lies in the field of genomics, phylogenomics, and computational biology. As a student in the vast universe of bioinformatics, I'm constantly dreaming up mathematical and algorithmic ideas to model and solve biological issues, with a particular focus on the dysregulation of alternative splicing and the evolution of a set of transcripts/CDS. In my current studies, I aim to bring more knowledge to these topics through computational modeling and analysis.
 
 I am also an enthusiast web developper/devOps engineer and I'm interested in algorithmic.
 
