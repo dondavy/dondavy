@@ -1,10 +1,4 @@
 ### Hi, 👋
-<a href="https://twitter.com/DavyOuedraogo3">
-  <img align="left" alt="Donald Davy | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/wend-yam-d-davy-ouedraogo-7764621b5/">
-  <img align="left" alt="Donald's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dondavy)
 <br />
