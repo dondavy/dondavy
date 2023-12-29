@@ -6,11 +6,6 @@ I'm [Donald Davy](), currently pursuing my PhD at the CoBIUS Lab in the Universi
 
 Additionally, I possess a keen interest in web development and have a strong background as a DevOps engineer. Algorithmic problem-solving intrigues me as well.
 
-```What is bioinformatics ?: ``` :laughing: :laughing:  :point_down:
-<p align="center">
-<img src="https://pbs.twimg.com/media/Ec5FRi2XgAUoND4.png" alt="Buy Me A Coffee" width='120' height='150' >
-</p>
-
 ```languages and tools : ```
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -19,20 +14,6 @@ Additionally, I possess a keen interest in web development and have a strong bac
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-> ### 📊 **This week, I spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Algorithm Dev         26 hrs 27 mins  ████████████░░░░░░░░░░░▒░   53.50 %
-React/devOps          20 hrs 15 mins  ██████████░░░░░░░░░░░░░▒░   37.46 %
-C++                   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Python                26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other                 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-```
-
-
-
 
 <!--
 **dondavy/dondavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
