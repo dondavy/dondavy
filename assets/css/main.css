@@ -1784,12 +1784,12 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
-	header.major h2 {
+	header.major h3 {
 		color: #4acaa8;
 		font-size: 3.5em;
 	}
 
-		header.major h2 + p {
+		header.major h3 + p {
 			color: #777;
 			font-size: 1.75em;
 			font-weight: 700;
@@ -3152,11 +3152,11 @@ input, select, textarea {
 				display: none;
 			}
 
-			header.major h2 {
+			header.major h3 {
 				font-size: 2.5em;
 			}
 
-				header.major h2 + p {
+				header.major h3 + p {
 					font-size: 1.5em;
 				}
 
