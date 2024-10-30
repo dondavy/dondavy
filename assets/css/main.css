@@ -3214,9 +3214,9 @@ input, select, textarea {
 
 		/* Footer */
 
-			/*#footer {
-				text-align: center;
-			}*/
+			#footer {
+				text-align: left;
+			}
 
 				#footer .copyright li {
 					border-left: 0;
