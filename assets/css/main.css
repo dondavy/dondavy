@@ -3222,7 +3222,7 @@ input, select, textarea {
 					border-left: 0;
 					display: block;
 					line-height: 1.75em;
-					margin: 0.75em 0 0 0;
+					/*margin: 0.75em 0 0 0;*/
 					padding-left: 0;
 				}
 
